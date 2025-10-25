@@ -1,2 +1,42 @@
-# Multiverso como recurso narrativo
-En esta pagina veras lo que seria los multiversos en la ficcion, veremos temas como: -Como se utilizan en las obras -Significados sobre el multiverso en diferentes perspectivas -EI pensamiento sobre el multiverso Hay personas que en sus obras hablan, meten o tiene de tema principal sobre el multiverso ; por ejemplo: Marvel con su obra What If donde cada episodio es un universo diferente con tramas diferentes, episodios con diferentes finales a los canonicos, diferentes o cambios de roles entre los personajes, etc.
+[index.html](https://github.com/user-attachments/files/23137442/index.html)
+<html>
+<head>
+<font size=20 color=White>
+<tittle>Ejemplo de estructura</tittle>
+</font>
+</head>
+<body bgcolor=black>
+   <Center>
+  <font size=20 color=DarkBlue>
+   Multiverso como recurso narrativo <br>
+  <img src="Multiverso.JPG"> <br>
+  <font size=20 color=LightBlue>
+  "Todo es posible cerca del infinito" <br>
+  <font size=5 color=white>
+En esta pagina veras lo que seria los
+multiversos en la ficcion, veremos temas
+como:
+
+-Como se utilizan en las obras
+
+-Significados sobre el multiverso en
+diferentes perspectivas
+
+-EI pensamiento sobre el multiverso
+
+Hay personas que en sus obras hablan,
+meten o tiene de tema principal sobre el
+multiverso ; por ejemplo:
+
+Marvel con su obra What If donde cada
+episodio es un universo diferente con
+tramas diferentes, episodios con
+diferentes finales a los canonicos,
+diferentes o cambios de roles entre los
+personajes, etc. <br><br>
+  <font size=20 color=Red>
+   Trabajo en construccion...
+  <font size=20 color=Red>
+  <marquee> Proximamente... </marquee></center>
+</body>
+</html>
